@@ -33,5 +33,23 @@ The Expert Advisor identifies a bearish trading opportunity and executes a SELL 
 **Instrument:** XAUUSD  
 **Timeframe:** M15
 
+
+### Expert Advisor Parameters & Risk Management
+
+The NEURON QUANT EA DEMO provides configurable trading parameters, allowing users to customize execution and risk controls.
+
+Key features include:
+
+- Optional economic news filtering
+- Configurable daily drawdown protection
+- Optional percentage-based risk management
+- Fixed lot trading
+- Adjustable Stop Loss and Take Profit
+- Automatic Break-Even management
+- Configurable Trailing Stop
+
+![EA Parameters](screenshots/EA_Parameters.png)
+
+
 *Screenshots are annotated illustrations of Strategy Tester activity. Trade execution and break-even behavior should be verified against the original tester records.*
 
